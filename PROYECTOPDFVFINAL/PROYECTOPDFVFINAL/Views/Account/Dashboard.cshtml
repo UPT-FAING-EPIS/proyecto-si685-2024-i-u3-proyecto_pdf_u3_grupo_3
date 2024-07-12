@@ -1,0 +1,32 @@
+﻿@model PROYECTOPDFVFINAL.Models.DashboardViewModel
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h2>Dashboard</h2>
+
+<div>
+    <h3>Bienvenido, @Model.Nombre</h3>
+    <p>Tipo de Suscripción: @Model.TipoSubscripcion</p>
+    <p>Operaciones Realizadas: @Model.OperacionesRealizadas</p>
+
+    <form asp-action="OperacionesPDF" asp-controller="Pdf" method="get">
+        <button type="submit" class="btn btn-primary">Operaciones PDF</button>
+    </form>
+
+    @if (Model.TipoSubscripcion == "BASICO")
+    {
+        <form asp-action="ComprarPremium" method="get">
+            <button type="submit" class="btn btn-primary mt-3">Comprar Suscripción Premium</button>
+        </form>
+    }
+
+    <a asp-action="Logout" class="btn btn-secondary mt-3">Logout</a>
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger mt-3">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+</div>

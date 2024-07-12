@@ -1,0 +1,18 @@
+﻿@model PROYECTOPDFVFINAL.Models.CompraPremiumViewModel
+@{
+    ViewData["Title"] = "Comprar Suscripción Premium";
+}
+
+<h2>Comprar Suscripción Premium</h2>
+
+<div>
+    <p>Precio: @Model.Precio.ToString("C")</p>
+    <p>Fecha de Inicio: @Model.FechaInicio.ToString("yyyy-MM-dd")</p>
+    <p>Fecha de Final: @Model.FechaFinal.ToString("yyyy-MM-dd")</p>
+</div>
+
+<form asp-action="ConfirmarCompraPremium" method="post">
+    <button type="submit" class="btn btn-primary">Confirmar Compra</button>
+</form>
+
+<a asp-action="Dashboard">Cancelar</a>
