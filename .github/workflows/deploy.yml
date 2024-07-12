@@ -28,4 +28,4 @@ jobs:
         username: ${{ secrets.SERVER_USER }}
         password: ${{ secrets.SERVER_PASSWORD }}
         source: 'ProyectoPDF/ProyectoPDF/ProyectoPDF/dist/ProyectoPDF.war'
-        target: 'C:/Users/Administrator/Downloads/apache-tomcat-9.0.90-windows-x64/apache-tomcat-9.0.90/webapps/'
+        target: '/path/to/your/tomcat/webapps/'
