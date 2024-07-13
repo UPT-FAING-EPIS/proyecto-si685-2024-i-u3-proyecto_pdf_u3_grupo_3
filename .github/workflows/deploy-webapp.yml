@@ -25,7 +25,7 @@ jobs:
         run: dotnet build --configuration Release --no-restore PROYECTOPDFVFINAL
 
       - name: Publish
-        run: dotnet publish PROYECTOPDFVFINAL -c realease -o publish
+        run: dotnet publish PROYECTOPDFVFINAL -o publish
 
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v2
