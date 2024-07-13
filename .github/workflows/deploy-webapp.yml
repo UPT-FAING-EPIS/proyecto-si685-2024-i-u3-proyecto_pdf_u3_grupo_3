@@ -22,7 +22,7 @@ jobs:
         run: dotnet restore PROYECTOPDFVFINAL
 
       - name: Build
-        run: dotnet build --configuration Release --no-restore
+        run: dotnet build --configuration Release --no-restore PROYECTOPDFVFINAL
 
       - name: Publish
         run: dotnet publish -c Release -o ${{github.workspace}}/publish
