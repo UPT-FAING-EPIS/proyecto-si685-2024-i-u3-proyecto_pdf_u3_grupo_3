@@ -9,67 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PROYECTOPDFVFINAL
 build_property.RootNamespace = PROYECTOPDFVFINAL
-build_property.ProjectDir = D:\PROYECTO PDF NUBE\PROYECTOPDFVFINAL\PROYECTOPDFVFINAL\
+build_property.ProjectDir = D:\SUBIR A LA NUBE\proyecto-si685-2024-i-u3-proyecto_pdf_u3_grupo_3\PROYECTOPDFVFINAL\PROYECTOPDFVFINAL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\PROYECTO PDF NUBE\PROYECTOPDFVFINAL\PROYECTOPDFVFINAL
+build_property.MSBuildProjectDirectory = D:\SUBIR A LA NUBE\proyecto-si685-2024-i-u3-proyecto_pdf_u3_grupo_3\PROYECTOPDFVFINAL\PROYECTOPDFVFINAL
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/PROYECTO PDF NUBE/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Account/ComprarPremium.cshtml]
+[D:/SUBIR A LA NUBE/proyecto-si685-2024-i-u3-proyecto_pdf_u3_grupo_3/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Account/ComprarPremium.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb21wcmFyUHJlbWl1bS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTO PDF NUBE/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Account/Dashboard.cshtml]
+[D:/SUBIR A LA NUBE/proyecto-si685-2024-i-u3-proyecto_pdf_u3_grupo_3/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Account/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTO PDF NUBE/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Account/Login.cshtml]
+[D:/SUBIR A LA NUBE/proyecto-si685-2024-i-u3-proyecto_pdf_u3_grupo_3/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTO PDF NUBE/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Account/Register.cshtml]
+[D:/SUBIR A LA NUBE/proyecto-si685-2024-i-u3-proyecto_pdf_u3_grupo_3/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTO PDF NUBE/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Home/Index.cshtml]
+[D:/SUBIR A LA NUBE/proyecto-si685-2024-i-u3-proyecto_pdf_u3_grupo_3/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTO PDF NUBE/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Home/Privacy.cshtml]
+[D:/SUBIR A LA NUBE/proyecto-si685-2024-i-u3-proyecto_pdf_u3_grupo_3/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTO PDF NUBE/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Pdf/CortarPDF.cshtml]
+[D:/SUBIR A LA NUBE/proyecto-si685-2024-i-u3-proyecto_pdf_u3_grupo_3/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Pdf/CortarPDF.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGRmXENvcnRhclBERi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTO PDF NUBE/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Pdf/FusionarPDF.cshtml]
+[D:/SUBIR A LA NUBE/proyecto-si685-2024-i-u3-proyecto_pdf_u3_grupo_3/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Pdf/FusionarPDF.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGRmXEZ1c2lvbmFyUERGLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTO PDF NUBE/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Pdf/OperacionesPDF.cshtml]
+[D:/SUBIR A LA NUBE/proyecto-si685-2024-i-u3-proyecto_pdf_u3_grupo_3/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Pdf/OperacionesPDF.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGRmXE9wZXJhY2lvbmVzUERGLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTO PDF NUBE/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Shared/Error.cshtml]
+[D:/SUBIR A LA NUBE/proyecto-si685-2024-i-u3-proyecto_pdf_u3_grupo_3/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTO PDF NUBE/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/SUBIR A LA NUBE/proyecto-si685-2024-i-u3-proyecto_pdf_u3_grupo_3/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTO PDF NUBE/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/_ViewImports.cshtml]
+[D:/SUBIR A LA NUBE/proyecto-si685-2024-i-u3-proyecto_pdf_u3_grupo_3/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTO PDF NUBE/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/_ViewStart.cshtml]
+[D:/SUBIR A LA NUBE/proyecto-si685-2024-i-u3-proyecto_pdf_u3_grupo_3/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROYECTO PDF NUBE/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Shared/_Layout.cshtml]
+[D:/SUBIR A LA NUBE/proyecto-si685-2024-i-u3-proyecto_pdf_u3_grupo_3/PROYECTOPDFVFINAL/PROYECTOPDFVFINAL/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-x7sppynsm2
